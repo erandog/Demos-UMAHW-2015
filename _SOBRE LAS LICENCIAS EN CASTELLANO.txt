@@ -1,0 +1,7 @@
+SOBRE TRADUCCIONES DE LA LICENCIA:
+
+El texto oficial de la licencia GNU General Public License está escrito en inglés.
+
+Existen traducciones de dicho texto al español y otros idiomas. En todo caso, debe entenderse que, salvo que se indique lo contrario, estas traducciones NO tienen carácter oficial ni están aprobadas por la Free Software Foundation.
+
+En caso de discordancia de significado entre la versión oficial original, en inglés, de la licencia y cualquier traducción de la misma, será aplicable cuanto contenga la versión original.
